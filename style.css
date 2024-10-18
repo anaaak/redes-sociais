@@ -12,4 +12,18 @@ body{
     color: var(--cor-texto);
     font-family: var(--font);
 }
-
+.cabecalho{
+  background-color: var(--cor-secudaria);
+  text-align: center;
+}
+header{
+  background-color: var(--cor-secundaria);
+}
+h1{
+  font-size: ;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+}
